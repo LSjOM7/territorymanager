@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/territorymanager",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alessio",
+      "email": "alessio@malvuccio.net"
+    }
+  ],
+  "require": {
+    "league/oauth2-server": "^8.2",
+    "auth0/auth0-php": "~7.0"
+  }
+}
